@@ -1,14 +1,14 @@
 # E-commerce-website-Analysis
 
-# 🛒 E-commerce Sales Analysis – Python Data Analytics Project
 
-## 📌 Overview
+
+##  Overview
 
 This project explores and analyzes E-commerce sales data using Python to extract key insights, uncover trends, and visualize customer purchasing behavior. The goal is to assist business stakeholders in understanding sales dynamics and product performance using clean, reproducible code.
 
 ---
 
-## 🧠 Problem Statement
+##  Problem Statement
 
 > How can an E-commerce company use historical sales data to identify top-selling products, customer trends, and sales seasonality?
 
@@ -20,14 +20,14 @@ This project explores and analyzes E-commerce sales data using Python to extract
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 * **Size**: \~30,000+ orders
 * **Features**: Order ID, Product, Category, Price, Quantity, Order Date, Customer ID, City, State, Payment Method
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 * **Python 3.x**
 
@@ -40,7 +40,7 @@ This project explores and analyzes E-commerce sales data using Python to extract
 
 ---
 
-## 📊 Process
+## Process
 
 ### 1. Data Cleaning
 
@@ -66,15 +66,15 @@ This project explores and analyzes E-commerce sales data using Python to extract
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
-* 📦 **Top Products:** Headphones, Smartwatches, and USB Cables dominated sales
-* 🗓️ **Highest Sales Month:** December due to holiday shopping
-* 🌍 **Top Regions:** Mumbai and Bangalore accounted for 45%+ revenue
-* 💳 **Most Used Payment Method:** Credit Card
+*  **Top Products:** Headphones, Smartwatches, and USB Cables dominated sales
+* x **Highest Sales Month:** December due to holiday shopping
+*  **Top Regions:** Mumbai and Bangalore accounted for 45%+ revenue
+*  **Most Used Payment Method:** Credit Card
 
 
-## 📈 Results & Impact
+##  Results & Impact
 
 * Delivered actionable business insights for product planning and regional marketing
 * Helped identify top-selling SKUs and underperforming segments
@@ -82,7 +82,7 @@ This project explores and analyzes E-commerce sales data using Python to extract
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Add customer lifetime value (CLV) and RFM analysis
 * Deploy as a Streamlit or Flask dashboard
